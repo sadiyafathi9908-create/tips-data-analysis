@@ -153,3 +153,57 @@ import matplotlib.pyplot as plt
 
 This project helped in understanding data analysis concepts including data cleaning, visualization, and extracting insights from real-world datasets using Python.
 
+#  project 4:Student Performance Analysis
+
+This project analyzes student performance data using Python, Pandas, and Matplotlib to identify trends and relationships between different academic factors and student scores.
+
+## Objectives
+
+* Analyze student performance in math, reading, and writing
+* Compare scores based on gender
+* Study the impact of test preparation courses
+* Understand score distributions and correlations
+* Apply statistical concepts using real-world data
+
+## Technologies Used
+
+* Python
+* Pandas
+* Matplotlib
+* Jupyter Notebook
+
+## Dataset
+
+Students Performance in Exams dataset from Kaggle.
+
+## Analysis Performed
+
+* Statistical summary using descriptive statistics
+* Average score analysis
+* Gender-wise performance comparison
+* Distribution of math scores
+* Correlation between reading and writing scores
+* Test preparation course impact analysis
+
+## Key Insights
+
+* Reading and writing scores were generally higher than math scores.
+* Female students performed better in reading and writing, while males showed slightly higher math scores.
+* Students who completed the test preparation course scored higher on average.
+* Reading and writing scores showed a strong positive correlation.
+* Most students scored within the mid-range across subjects.
+
+## Libraries Used
+
+```python
+import pandas as pd
+import matplotlib.pyplot as plt
+```
+
+## Conclusion
+
+This project helped in understanding statistical analysis, data visualization, and interpretation of educational datasets using Python.
+
+## Author
+
+Sadiya
